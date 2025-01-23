@@ -2,7 +2,7 @@
 - 👀 I’m interested in java and music
 - 🌱 I’m currently learning javascript and angular
 - 💞️ I’m looking to collaborate on jetbrains plugin development
-- 📫 How to reach me: DISCORD -> coconutmkii
+- 📫 How to reach me: DISCORD -> coconutmkiii
 
 <!---
 COCONUTmkII/COCONUTmkII is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
